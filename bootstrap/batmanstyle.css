@@ -1,0 +1,12 @@
+footer{
+                background-color:#000000;
+               
+}
+
+
+
+
+nav ul li a:hover{
+	border-bottom:5px solid #fff000;
+	opacity:0.7;
+}
